@@ -5,3 +5,7 @@ android/.gradle/
 android/build/
 android/app/build/
 android/local.properties
+android-year13/.gradle/
+android-year13/build/
+android-year13/app/build/
+android-year13/local.properties

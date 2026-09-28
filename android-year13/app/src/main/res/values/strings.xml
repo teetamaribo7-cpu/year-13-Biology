@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Year 13 Revision Biology</string>
+    <string name="school_name">St Louis High School</string>
+    <string name="motto">Growing in Wisdom and Knowledge</string>
+    <string name="subtitle">Year 13 Revision Biology</string>
+    <string name="credit">Created by the Biology Teacher</string>
+    <string name="pick_strand">SPFSC Biology past papers 2017–2025. Choose a strand for notes, multiple-choice quizzes and past exam questions with solutions.</string>
+    <string name="strands">Strands</string>
+    <string name="strand1">Strand 1\nAnimal Behaviour</string>
+    <string name="strand2">Strand 2\nGene Expression</string>
+    <string name="strand3">Strand 3\nBiotechnology Applications</string>
+    <string name="strand4">Strand 4\nProcesses and Patterns of Evolution</string>
+    <string name="strand5">Strand 5\nEnvironmental Issues</string>
+    <string name="tools">More</string>
+    <string name="mix">Mixed exam practice (25 questions)</string>
+    <string name="mistakes">My mistakes</string>
+    <string name="reset">Reset my progress</string>
+    <string name="about">About this app</string>
+    <string name="logo_desc">St Louis High School crest</string>
+    <string name="about_title">Year 13 Revision Biology</string>
+    <string name="about_text">A free revision app for Year 13 Biology students at St Louis High School, created by the Biology Teacher.\n\nBased on the South Pacific Form Seven Certificate (SPFSC) Biology papers 2017–2025. Each strand has study notes, multiple-choice quizzes (including a definitions quiz) with solutions, and the past exam questions with model solutions.\n\nWorks without internet. Your scores and mistakes are saved on this phone only.</string>
+</resources>

@@ -1,5 +1,5 @@
-// Offline cache for Y12 Biology Revision. Bump VERSION whenever index.html changes.
-const VERSION = 'y12bio-v1.1';
+// Offline cache for Year 13 Revision Biology. Bump VERSION whenever index.html changes.
+const VERSION = 'y13bio-v1.0';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', e => {

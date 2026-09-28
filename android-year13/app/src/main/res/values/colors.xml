@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- St Louis High School colours (royal blue and yellow from the crest) -->
+    <color name="school_primary">#1A2E9E</color>
+    <color name="school_accent">#F5E21A</color>
+    <color name="page_bg">#F5F7FA</color>
+    <color name="text_main">#12303A</color>
+    <color name="text_soft">#4A6670</color>
+    <color name="bio">#2F7D4A</color>
+    <color name="chem">#7A4CC2</color>
+    <color name="skill">#0F7C8C</color>
+    <color name="s1">#0F7C8C</color>
+    <color name="s2">#7A4CC2</color>
+    <color name="s3">#1F5FBF</color>
+    <color name="s4">#2F7D4A</color>
+    <color name="s5">#B86E00</color>
+    <color name="phys">#B86E00</color>
+    <color name="white">#FFFFFF</color>
+</resources>
