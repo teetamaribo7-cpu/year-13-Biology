@@ -7,6 +7,9 @@
 
 Both apps work fully offline once they have been opened one time.
 
+**Android download (APK) for Year 13:** `https://teetamaribo7-cpu.github.io/year-13-Biology/downloads/Year13RevisionBiology.apk`
+(open on an Android phone, tap the downloaded file, allow "Install unknown apps" if asked). iPhones cannot use APK files, so iPhone users use the link in the table.
+
 ## iPhone and iPad: install the app
 
 Apple does not let iPhones install apps from a file (there is no iPhone version of an `.apk`).
@@ -40,6 +43,7 @@ and on computers.
 | Path | What it is |
 | --- | --- |
 | `index.html` | The whole Year 12 app |
+| `downloads/Year13RevisionBiology.apk` | The signed Year 13 Android app, for direct download |
 | `year13/` | The whole Year 13 app, with its own manifest, icons and `sw.js` |
 | `manifest.webmanifest`, `icons/` | App name and Home Screen icon |
 | `sw.js` | Offline support |
